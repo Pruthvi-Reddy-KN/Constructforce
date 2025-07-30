@@ -1,4 +1,4 @@
-# Project Nexus – Web Application
+# Construction tracking and resource analytics tool:
 
 A modern, responsive, and extensible web application focused on resource efficiency, customizable landing pages, and integrated analytics. Built using the Lovable.dev platform, this app enables flexible development through prompt-based editing or traditional coding workflows.
 
@@ -27,8 +27,8 @@ Optimized for speed using modern tools like Vite and Tailwind CSS, with minimal 
 
 - **Frontend:** TypeScript, Tailwind CSS, shadcn/ui  
 - **Backend/Platform:** Node.js, Lovable.dev  
+- **Database:** PostgreSQL  
 - **Build Tool:** Vite
-- **Database:**Postgres
 
 ---
 
