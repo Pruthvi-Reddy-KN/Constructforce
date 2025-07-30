@@ -4,21 +4,21 @@ A modern, responsive, and extensible web application focused on resource efficie
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔧 Resource Management  
+### Resource Management  
 Efficiently handles dynamic asset loading and dependency optimization for high performance and scalability.
 
-### 🎯 Custom Landing Pages  
+### Custom Landing Pages  
 Easily create and customize landing pages for marketing, onboarding, or product overviews using a clean, component-based design system.
 
-### 📊 Analytics Integration  
+### Analytics Integration  
 Ready for integration with Google Analytics, PostHog, or other tools to track user interactions and performance metrics.
 
-### 👥 Collaborative Development  
+### Collaborative Development  
 Edit the codebase using Lovable.dev’s web UI or your preferred IDE with automatic Git syncing.
 
-### ⚡ Fast Setup & Deployment  
+### Fast Setup & Deployment  
 Optimized for speed using modern tools like Vite and Tailwind CSS, with minimal configuration needed.
 
 ---
@@ -28,6 +28,7 @@ Optimized for speed using modern tools like Vite and Tailwind CSS, with minimal 
 - **Frontend:** TypeScript, Tailwind CSS, shadcn/ui  
 - **Backend/Platform:** Node.js, Lovable.dev  
 - **Build Tool:** Vite
+- **Database:**Postgres
 
 ---
 
