@@ -15,9 +15,6 @@ Easily create and customize landing pages for marketing, onboarding, or product 
 ### Analytics Integration  
 Ready for integration with Google Analytics, PostHog, or other tools to track user interactions and performance metrics.
 
-### Collaborative Development  
-Edit the codebase using Lovable.dev’s web UI or your preferred IDE with automatic Git syncing.
-
 ### Fast Setup & Deployment  
 Optimized for speed using modern tools like Vite and Tailwind CSS, with minimal configuration needed.
 
