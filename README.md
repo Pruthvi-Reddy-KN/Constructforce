@@ -1,6 +1,6 @@
 # Construction tracking and resource analytics tool:
 
-A modern, responsive, and extensible web application focused on resource efficiency, customizable landing pages, and integrated analytics. Built using the Lovable.dev platform, this app enables flexible development through prompt-based editing or traditional coding workflows.
+A modern, responsive, and extensible web application focused on resource efficiency, customizable landing pages, and integrated analytics. This app enables flexible development through prompt-based editing or traditional coding workflows.
 
 ---
 
