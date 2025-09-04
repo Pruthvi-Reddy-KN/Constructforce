@@ -31,7 +31,7 @@ Optimized for speed using modern tools like Vite and Tailwind CSS, with minimal 
 
 ## Data & Performance
 
-The project uses modular components and on-demand loading for optimal runtime performance. All changes are tracked and committed automatically when using Lovable, or manually when working locally with Git.
+The project uses modular components and on-demand loading for optimal runtime performance. All changes are tracked and committed automatically, or manually when working locally with Git.
 
 ---
 
