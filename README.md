@@ -26,7 +26,7 @@ Optimized for speed using modern tools like Vite and Tailwind CSS, with minimal 
 ## Tech Stack
 
 - **Frontend:** TypeScript, Tailwind CSS, shadcn/ui  
-- **Backend/Platform:** Node.js, Lovable.dev  
+- **Backend/Platform:** Node.js 
 - **Database:** PostgreSQL  
 - **Build Tool:** Vite
 
